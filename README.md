@@ -1,2 +1,3 @@
 # Shooting-stars
-fun opengl stuff
+Class project.
+A OpenGL "creative"  project built in 12 hours
